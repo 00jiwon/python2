@@ -13,3 +13,4 @@
   - 'data.pkl' : **import pickle**를 통해 바이너리 모드
   - 'data.json' : **import json**를 통해 데이터를 json형식으로
   - 'data.yaml' : **import yaml**를 통해 데이터를 yaml형식으로
+
